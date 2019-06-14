@@ -1,4 +1,5 @@
 /******************************************************
+
 Test Name: Delete an employee record
 URI: http://dummy.restapiexample.com/api/v1/delete/{id}
 Request Type: DELETE
@@ -12,6 +13,7 @@ Content Type : text/html; charset=UTF-8
 Server Type :  nginx/1.14.1
 Content Encoding : gzip
 **********************************************************/
+//Delete the employees 
 
 package com.employeeapi.testCases;
 
